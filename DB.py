@@ -102,8 +102,4 @@ def BancoDados(opc='',id_c=0,nome_c='', idade_c=0):
     conexao.close()
 
 
-# print(BancoDados('BuscaIdade', 0, '', 22)[1])
-
-
-# BancoDados('BuscaIdade', 0,'',20)
 
