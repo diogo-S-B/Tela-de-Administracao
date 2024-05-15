@@ -1,10 +1,10 @@
 Tela de administração de usuarios
 
 Funções:
-Criar usuários
-Excluir usuários
-Editar usuários
-Consultar usuários
+Criar usuários,
+Excluir usuários,
+Editar usuários,
+Consultar usuários.
 
 
 Menu:
