@@ -34,10 +34,10 @@ def tela(x=0):
 
         elif event == '-TABLE-':
             row = values['-TABLE-']
-            id = x[row[0]][0]
 
 
         try:
+            id = x[row[0]][0]
             if event == '-EXCLUIR-' and row != '':
                 if sg.popup_yes_no('Tem certeza que dejesa editar o usuário?') == 'Yes':
                     del x[row[0]]
